@@ -1,0 +1,40 @@
+{
+  "model": "haiku-4.5",
+  "model_id": "claude-haiku-4-5",
+  "token_counts": {
+    "sentence": {
+      "en": 19,
+      "ru": 36,
+      "kk": 49
+    },
+    "complaint": {
+      "en": 66,
+      "ru": 135,
+      "kk": 199
+    },
+    "system_prompt": {
+      "en": 48,
+      "ru": 81,
+      "kk": 125
+    }
+  },
+  "request_tokens": {
+    "en": 107,
+    "ru": 209,
+    "kk": 317
+  },
+  "one_request_billed": {
+    "en": {
+      "input_tokens": 107,
+      "output_tokens": 147
+    },
+    "ru": {
+      "input_tokens": 209,
+      "output_tokens": 286
+    },
+    "kk": {
+      "input_tokens": 317,
+      "output_tokens": 492
+    }
+  }
+}
